@@ -8,4 +8,4 @@ My name is Aayush Rathod, I'm a passionate and detail-oriented student pursuing 
 
 # Write your name, favorite tech stack, where you work
 
-1. Aayush Rathod, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
+1. Aayush Rathod, `Python + MERN stack`, Batch 10 am to 11 am, Programmer Analyst intern at cepialabs.
